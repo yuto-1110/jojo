@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+  text-decoration: none;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://uploader.xzy.pw/upload/20190720025739_6a5761476b.jpeg);
+  background-size: cover;
+  color: white;
+ text-align :center;
+
+}
+
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+
+}
+.btn:hover {
+  opacity: 1;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.i {
+  margin-right: 5px;
+  text-align: center;
+}
+
+header {
+  height: 65px;
+  width: 100% ;
+
+  background-color: black;
+}
+
+.logo {
+  width: 150px;
+  margin: auto;
+}
+.header-left {
+  float: left;
+}
+.header-right:hover {
+  background-color: gray;
+}
+
+.header-right {
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3)
+ transition: all 0.5s;
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px ;
+  color: black;
+  display: block;
+}
+
+footer img {
+  width: 125px;
+}
+
+.contact-form {
+  padding-top :100px;
+}
+
+input,textarea {
+  width :400px;
+  margin-top :10px;
+  margin-bottom :30px;
+  padding :20px;
+  border :1px solid #dee7ec;
+  font-size :18px;
+}
+
+
+.contact-submit {
+  background-color :#dee7ec;
+  color :#889eab;
+}
+
+.footer {
+  background-color: black;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
+
+
+.login a1 {
+  color :white;
+}
